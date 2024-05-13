@@ -19,6 +19,7 @@ Isian data prodi
 ![Screenshot 2024-05-13 233054](https://github.com/MJOYX4/MJOYX4/assets/160231998/506257e0-a45c-4596-8b79-bb2c30b26f70)
 
 Isian data mahasiswa
+
 ![Screenshot 2024-05-13 233106](https://github.com/MJOYX4/MJOYX4/assets/160231998/f3e030de-77ee-4f09-a0ae-3f9dde96cf55)
 
 Isian data mata kuliah
