@@ -1,4 +1,4 @@
-![Screenshot 2024-05-13 234133](https://github.com/MJOYX4/MJOYX4/assets/160231998/163d2b63-989a-45ab-8b9a-1283a12b8b75)Menambah kolom agama
+Menambah kolom agama
 ![Screenshot 2024-05-13 232435](https://github.com/MJOYX4/MJOYX4/assets/160231998/2b34523f-feb8-4f6b-b9ae-23994243733c)
 
 
