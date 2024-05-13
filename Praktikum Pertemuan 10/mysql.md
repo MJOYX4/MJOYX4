@@ -1,4 +1,4 @@
-Menambah kolom agama
+![Screenshot 2024-05-13 234133](https://github.com/MJOYX4/MJOYX4/assets/160231998/163d2b63-989a-45ab-8b9a-1283a12b8b75)Menambah kolom agama
 ![Screenshot 2024-05-13 232435](https://github.com/MJOYX4/MJOYX4/assets/160231998/2b34523f-feb8-4f6b-b9ae-23994243733c)
 
 
@@ -23,14 +23,12 @@ Isian data mahasiswa
 
 
 Isian data mata kuliah
-
-![Screenshot 2024-05-13 234052](https://github.com/MJOYX4/MJOYX4/assets/160231998/c7d05f36-4396-49f0-9119-6d231ca7ce71)
+![Screenshot 2024-05-13 233129](https://github.com/MJOYX4/MJOYX4/assets/160231998/300da787-42fd-4a77-a37c-a8760d769ead)
 
 
 
 Isian data ruang
-
-![Screenshot 2024-05-13 234118](https://github.com/MJOYX4/MJOYX4/assets/160231998/7ccb1452-ab16-4dc1-bf74-18d4785ee59c)
+![Screenshot 2024-05-13 234052](https://github.com/MJOYX4/MJOYX4/assets/160231998/0205d3b4-0fd8-4f4f-9bfb-c0224f256e8a)
 
 
 
