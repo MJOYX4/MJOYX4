@@ -22,18 +22,20 @@ Isian data mahasiswa
 ![Screenshot 2024-05-13 233129](https://github.com/MJOYX4/MJOYX4/assets/160231998/73bfb9dd-2f3d-45ea-834e-7f8fe2695490)
 
 
-
 Isian data mata kuliah
+
 ![Screenshot 2024-05-13 234052](https://github.com/MJOYX4/MJOYX4/assets/160231998/c7d05f36-4396-49f0-9119-6d231ca7ce71)
 
 
 
 Isian data ruang
+
 ![Screenshot 2024-05-13 234118](https://github.com/MJOYX4/MJOYX4/assets/160231998/7ccb1452-ab16-4dc1-bf74-18d4785ee59c)
 
 
 
 Menampilkan semua Tabel
+
 ![Screenshot 2024-05-13 234118](https://github.com/MJOYX4/MJOYX4/assets/160231998/e5ca1e6f-4b34-439d-bee2-d712364759f6)
 
 
