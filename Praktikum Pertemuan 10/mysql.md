@@ -15,11 +15,12 @@ Isian data dosen
 
 
 Isian data prodi
-![Screenshot 2024-05-13 233106](https://github.com/MJOYX4/MJOYX4/assets/160231998/fe2c6b53-218d-428e-ba61-e5e68fa4c751)
+![Screenshot 2024-05-13 233054](https://github.com/MJOYX4/MJOYX4/assets/160231998/8deb9b12-116a-4b91-9c56-e0764fa8bc67)
 
 
 Isian data mahasiswa
-![Screenshot 2024-05-13 233129](https://github.com/MJOYX4/MJOYX4/assets/160231998/73bfb9dd-2f3d-45ea-834e-7f8fe2695490)
+![Screenshot 2024-05-13 233106](https://github.com/MJOYX4/MJOYX4/assets/160231998/2ca027bb-903a-4d6e-ba19-2967828a1afd)
+
 
 
 Isian data mata kuliah
@@ -28,6 +29,7 @@ Isian data mata kuliah
 
 
 Isian data ruang
+
 ![Screenshot 2024-05-13 234052](https://github.com/MJOYX4/MJOYX4/assets/160231998/0205d3b4-0fd8-4f4f-9bfb-c0224f256e8a)
 
 
