@@ -19,3 +19,28 @@
 
 
 ![Screenshot 2024-05-20 162420](https://github.com/MJOYX4/MJOYX4/assets/160231998/c443978a-c521-4885-b875-891144ceacf3)
+
+
+2. Bagaimana sintaksis untuk menampilkan semua kolom jadwal pada hari kamis yang dimulai pada pukul 08:40 ? Tunjukkan outputnya!
+
+
+![Screenshot 2024-05-20 164849](https://github.com/MJOYX4/MJOYX4/assets/160231998/eb044767-3519-4d1c-b957-6f55e9c4f247)
+
+
+3. Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya! Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!
+
+
+![Screenshot 2024-05-20 164855](https://github.com/MJOYX4/MJOYX4/assets/160231998/6156030b-5182-472f-b31e-b11714c8a413)
+
+
+4. Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.
+
+
+![Screenshot 2024-05-20 164914](https://github.com/MJOYX4/MJOYX4/assets/160231998/0684b934-34c8-4568-8d73-8a04d4985ad5)
+
+
+5. Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.
+
+
+![Screenshot 2024-05-20 164936](https://github.com/MJOYX4/MJOYX4/assets/160231998/976a0183-6391-4861-8533-99ecd14fd0b0)
+
